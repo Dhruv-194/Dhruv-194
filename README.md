@@ -6,4 +6,4 @@
 
 ---
 
-![octocat gif](https://github.com/Dhruv-194/Dhruv-194/blob/master/Gifs/airpods.gif) Yup thats my octocat listening to music 
+## What do I know? 
