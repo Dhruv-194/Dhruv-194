@@ -23,3 +23,6 @@
 ---
 
 ## Fun Fact : :zap:
+- Learning Japanese :japanese_castle:
+- Playing chess :white_square_button:
+- Solving Rubik's Cube :100:
