@@ -6,7 +6,7 @@
 
 ---
 
-## What do I know? :bulb:
+# What do I know? :bulb:
 
 | Worked Domains | Description | 
 | ---------------------------------------------------------------------------------------------------------------------- | --------------- | 
@@ -22,7 +22,7 @@
 
 ---
 
-## Fun Fact : :zap:
-- Learning Japanese :japanese_castle:
-- Playing chess :white_square_button:
-- Solving Rubik's Cube :100:
+# Fun Fact : :zap:
+### - Learning Japanese :japanese_castle:
+### - Playing chess :white_square_button:
+### - Solving Rubik's Cube :100:
