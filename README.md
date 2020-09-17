@@ -6,6 +6,7 @@
 
 ---
 
+
 # What do I know? :bulb:
 
 | Worked Domains | Description | 
@@ -28,10 +29,10 @@
 ### - Solving Rubik's Cube :100:
 
 
-
 --- 
 
 
 
 ---
 
+# Where to find me? :thinking:
