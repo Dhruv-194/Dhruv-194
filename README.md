@@ -15,3 +15,11 @@
 | <img src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/opensourceinitiative.svg" width="50" height="40"> | Passionate about the community hence likes to give back to the field of interest by being an active open source contributor.|
 | <img src = "https://www.iconfinder.com/data/icons/font-awesome/1792/pied-piper-alt-512.png" width="50" height="50"> | Excited to learn new technology. Have keen interest in the field of AI-ML. Learning ethical hacking as a hobby of interest. | 
 
+
+--- 
+
+
+
+---
+
+## Fun Fact : :zap:
