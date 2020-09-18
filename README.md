@@ -23,6 +23,16 @@
 
 ---
 
+# My Tech-Stack : 
+
+<img src = "https://github.com/Dhruv-194/Dhruv-194/blob/master/Images/My%20TechStack.png" width = "500" height  = "400" /> 
+
+--- 
+
+
+
+---
+
 # Fun Fact : :zap:
 <img align="right" src="https://emoji.gg/assets/emoji/2811_DanceAmongStick.gif" />
 
