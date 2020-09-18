@@ -23,7 +23,7 @@
 
 ---
 
-# My Tech-Stack : 
+# My Tech-Stack : :computer:
 
 <img src = "https://github.com/Dhruv-194/Dhruv-194/blob/master/Images/My%20TechStack.png" width = "500" height  = "400" /> 
 
