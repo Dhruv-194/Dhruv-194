@@ -35,7 +35,7 @@
 
 ---
 
-# Where to find me? :thinking:  <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+# Where to find me? :thinking:  <img align="right" src="https://github.com/Dhruv-194/Dhruv-194/blob/master/Gifs/8740_developer_transparent.gif" />
 
 <img src= "https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"> 
 <img src= "https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"> 
