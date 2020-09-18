@@ -35,8 +35,8 @@
 
 ---
 
-# Where to find me? :thinking:                
-<h1 align = "right"> TechStack </h1> 
+# Where to find me? :thinking:   <h1 align = "right"> TechStack </h1>              
+
 <img align="right" src="https://github.com/Dhruv-194/Dhruv-194/blob/master/Gifs/8740_developer_transparent.gif" />
 
 <img src= "https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"> 
