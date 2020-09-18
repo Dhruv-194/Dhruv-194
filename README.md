@@ -24,7 +24,7 @@
 ---
 
 # Fun Fact : :zap:
-<img align="right" src="https://emoji.gg/assets/emoji/2641_SkypeSun.gif" />
+<img align="right" src="https://emoji.gg/assets/emoji/2811_DanceAmongStick.gif" />
 
 ### - Learning Japanese :japanese_castle:
 ### - Playing chess :white_square_button:
