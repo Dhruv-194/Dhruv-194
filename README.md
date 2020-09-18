@@ -40,7 +40,7 @@
 # Where to find me? :thinking:                
 <img align="right" src="https://emoji.gg/assets/emoji/6738_WaddlingDuck.gif" />
 
-<a href="https://twitter.com/wilder569"> <img src= "https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"> </a>
-<img src= "https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"> 
-<img src= "https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white"> 
-<img src= "https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white"> 
+<p><a href="https://twitter.com/wilder569"><img src= "https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a></p>
+<p><a href="https://twitter.com/wilder569"><img src= "https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a></p>
+<p><a href="https://twitter.com/wilder569"><img src= "https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a></p>
+<p><a href="https://twitter.com/wilder569"><img src= "https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a></p>
