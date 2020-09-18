@@ -24,8 +24,10 @@
 ---
 
 # My Tech-Stack : :computer:
-
+<img align="right" src="https://github.com/Dhruv-194/Dhruv-194/blob/master/Gifs/8740_developer_transparent.gif" />
 <img src = "https://github.com/Dhruv-194/Dhruv-194/blob/master/Images/My%20TechStack.png" width = "500" height  = "400" /> 
+
+
 
 --- 
 
