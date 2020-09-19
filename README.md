@@ -6,7 +6,7 @@
 
 ---
 
-
+<!--
 # What do I know? :bulb:
 
 | Worked Domains | Description | 
@@ -22,6 +22,7 @@
 
 
 ---
+-->
 
 # My Tech-Stack : :computer:
 <img align="right" src="https://github.com/Dhruv-194/Dhruv-194/blob/master/Gifs/8740_developer_transparent.gif" />
