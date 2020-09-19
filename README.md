@@ -36,7 +36,7 @@
 
 ---
 
-# Fun Fact : :zap:
+# Fun Facts/Hobbies : :zap:
 <img align="right" src="https://emoji.gg/assets/emoji/2811_DanceAmongStick.gif" />
 
 ### - Learning Japanese :japanese_castle:
