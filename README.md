@@ -5,7 +5,7 @@
 
 
 ---
-![visitorscount badge](https://badges.pufler.dev/visits/Dhruv-194/git-badges)
+![visitorscount badge](https://badges.pufler.dev/visits/Dhruv-194/Dhruv-194)
 <!--
 # What do I know? :bulb:
 
