@@ -5,7 +5,7 @@
 
 
 ---
-![visitorscount badge](https://visitor-badge.glitch.me/badge?page_id=Dhruv-194.visitor-badge)
+![visitorscount badge](https://badges.pufler.dev/visits/Dhruv-194/git-badges)
 <!--
 # What do I know? :bulb:
 
@@ -61,5 +61,6 @@
 
 
 <div align="center">
-<img align="center" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/> 
+<img align="center" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
+<img align="center" src="https://visitor-badge.glitch.me/badge?page_id=Dhruv-194.visitor-badge"/>
 </div>
