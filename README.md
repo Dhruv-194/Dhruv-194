@@ -64,7 +64,7 @@
 
 
 ---
-# 
+# Below are some of my favourite pinned repositories 
 <div align="center">
 <img align="center" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/ hspace="10">
 <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=Dhruv-194.visitor-badge"/>
