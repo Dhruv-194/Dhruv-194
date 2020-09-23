@@ -79,3 +79,6 @@
 ---
 # Below are some of my favourite pinned repositories :point_down:
 
+<div align="center">
+<img align="center" src="https://emoji.gg/assets/emoji/7524_this_animated_bottom.gif">
+ </div>
