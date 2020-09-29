@@ -72,6 +72,14 @@
 <p><a href="https://dev.to/dhruv194"><img src= "https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white"></a></p>
 <p><a href="https://gitlab.com/Dhruv194"><img src= "https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white"></a></p>
 
+
+--- 
+
+
+
+---
+
+
 --- 
 
 
