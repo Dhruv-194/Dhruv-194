@@ -11,6 +11,7 @@
 <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=Dhruv-194.visitor-badge"/>
 <img align="center" src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103)" alt="Open Source Love Badge"/ vspace="100" hspace="10"
 
+<br>
 <p><a href="https://twitter.com/wilder569"><img align = "center" src= "https://github-readme-stats-nine-rosy.vercel.app/api?username=Dhruv-194&show_icons=true&theme=nightowl"></a></p>
 
 </div>
