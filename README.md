@@ -13,9 +13,9 @@
 </div>
 
 <br> 
-
+<br>
 <div align = "center"> 
-<img align = "center" src ="https://github-readme-stats-nine-rosy.vercel.app/api?username=Dhruv-194&show_icons=true&theme=nightowl"/>
+<img align = "center" src ="https://github-readme-stats-nine-rosy.vercel.app/api?username=Dhruv-194&show_icons=true&theme=nightowl" vspace="20"/>
 </div>
 
 --- 
