@@ -10,6 +10,10 @@
 <img align="center" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/ hspace="10">
 <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=Dhruv-194.visitor-badge"/>
 <img align="center" src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103)" alt="Open Source Love Badge"/ hspace="10">
+ 
+ <a href="https://github.com/Dhruv-194/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-nine-rosy.vercel.app/api?username=Dhruv-194&show_icons=true&theme=nightowl" />
+</a>
 
 </div>
 
@@ -71,14 +75,6 @@
 <p><a href="http://linkedin.com/in/dhruv-mehta-194dev/"><img src= "https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a></p>
 <p><a href="https://dev.to/dhruv194"><img src= "https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white"></a></p>
 <p><a href="https://gitlab.com/Dhruv194"><img src= "https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white"></a></p>
-
-
---- 
-
-
-
----
-[![Dhruv's github stats](https://github-readme-stats-nine-rosy.vercel.app/api?username=Dhruv-194&show_icons=true&theme=nightowl)](https://github.com/Dhruv-194/github-readme-stats)
 
 
 --- 
