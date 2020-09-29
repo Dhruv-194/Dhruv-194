@@ -13,9 +13,10 @@
 
 
 <br> 
+<br>
 
- 
-<img align = "center" src ="https://github-readme-stats-nine-rosy.vercel.app/api?username=Dhruv-194&show_icons=true&theme=nightowl" hspace="100" vspace="20"/>
+<div>
+<img align = "center" src ="https://github-readme-stats-nine-rosy.vercel.app/api?username=Dhruv-194&show_icons=true&theme=nightowl" hspace="100" vspace="100"/>
 </div>
 
 --- 
