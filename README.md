@@ -7,10 +7,11 @@
 ---
 
 <div align="center">
-<img align="center" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/ hspace="10">
+<img align="center" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge" hspace="10"/>
 <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=Dhruv-194.visitor-badge"/>
-<img align="center" src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103)" alt="Open Source Love Badge"/ vspace="100" hspace="10"
+<img align="center" src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103)" alt="Open Source Love Badge" vspace="100" hspace="10"/>
 
+<br>
 <br>
 <p><a href="https://twitter.com/wilder569"><img align = "center" src= "https://github-readme-stats-nine-rosy.vercel.app/api?username=Dhruv-194&show_icons=true&theme=nightowl"></a></p>
 
