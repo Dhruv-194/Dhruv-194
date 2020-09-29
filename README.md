@@ -12,10 +12,9 @@
 <img align="center" src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103)" alt="Open Source Love Badge"/ hspace="10"
 
 
-<br> 
-<br>
+<hr>
 
-<div>
+
 <img align = "center" src ="https://github-readme-stats-nine-rosy.vercel.app/api?username=Dhruv-194&show_icons=true&theme=nightowl" hspace="100" vspace="100"/>
 </div>
 
