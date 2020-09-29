@@ -78,7 +78,7 @@
 
 
 ---
-[![Dhruv's github stats](https://github-readme-stats-nine-rosy.vercel.app/api?username=Dhruv-194&show_icons=true&bg_color=#f3904f)](https://github.com/Dhruv-194/github-readme-stats)
+[![Dhruv's github stats](https://github-readme-stats-nine-rosy.vercel.app/api?username=Dhruv-194&show_icons=true&theme=nightowl)](https://github.com/Dhruv-194/github-readme-stats)
 
 
 --- 
