@@ -41,7 +41,9 @@
 -->
 # What do I know? :bulb:
 
-#### I am technically proficent with Android Mobile Development and I am a buddig game developer. I am also passionate about the open source community and therefore I am an acitve open source contributor. Lastly I have keen interest in the field of AI-ML and ethical hacking. 
+* #### I am technically proficent with Android Mobile Development and I am a buddig game developer. 
+* #### I am also passionate about the open source community and therefore I am an acitve open source contributor. 
+* #### Lastly I have keen interest in the field of AI-ML and ethical hacking. 
 --- 
 
 
