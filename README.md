@@ -13,7 +13,7 @@
 
 <br>
 <br>
-<p><a href="https://twitter.com/wilder569"><img align = "center" src= "https://github-readme-stats-nine-rosy.vercel.app/api?username=Dhruv-194&show_icons=true&theme=nightowl"></a></p>
+<p><a href="https://twitter.com/wilder569"><img align = "center" src= "https://github-readme-stats1-j4zve90rn-dhruv-194.vercel.app/api?username=Dhruv-194&show_icons=true&theme=nightowl"></a></p>
 
 </div>
 
