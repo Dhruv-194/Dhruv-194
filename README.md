@@ -10,6 +10,7 @@
 <img align="center" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge" hspace="10"/>
 <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=Dhruv-194.visitor-badge"/>
 <img align="center" src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103)" alt="Open Source Love Badge" vspace="100" hspace="10"/>
+<img align ="center" src="https://img.shields.io/badge/My%20Website-Check%20my%20website-orange"/> 
 
 <br>
 <br>
