@@ -84,7 +84,7 @@
 <p><a href="http://linkedin.com/in/dhruv-mehta-194dev/"><img src= "https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a></p>
 <p><a href="https://dev.to/dhruv194"><img src= "https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white"></a></p>
 <p><a href="https://gitlab.com/Dhruv194"><img src= "https://img.shields.io/badge/gitlab-%23330f63.svg?&style=for-the-badge&logo=gitlab&logoColor=white"></a></p>
-
+<p><a href ="https://medium.com/@dhruv1592001"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a></p>
 
 --- 
 
